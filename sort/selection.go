@@ -4,6 +4,7 @@ import (
 	"constraints"
 )
 
+// Selection implemented the basic selection sort
 func Selection[T constraints.Ordered](a []T) {
 	length := len(a)
 	for i := 0; i < length; i++ {
