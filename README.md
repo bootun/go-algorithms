@@ -1,7 +1,7 @@
 go-algorithms
 ===
 
-《Algorithm Fourth Edition》go generic implemented
+《Algorithm Fourth Edition》implementation using go generics
 
 ```shell
 $ cd go-algorithms
